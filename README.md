@@ -8,21 +8,20 @@ This repository contains the LaTeX source for "Quantum Information Science: Comp
 
 ## Table of Contents
 
-The book is organized into 13 comprehensive chapters:
+The book is organized into 12 comprehensive chapters:
 
-1. **From Classical to Quantum Information** - Information theory fundamentals and quantum primitives
-2. **Mathematical Framework** - Linear algebra, Hilbert spaces, and quantum operations  
-3. **Quantum Mechanics and Measurement** - Dynamics, measurement theory, and open systems
-4. **Entanglement and Quantum Correlations** - Entanglement theory and Bell inequalities
-5. **Quantum Circuits and Gates** - Circuit model and universal gate sets
-6. **Quantum Algorithms - Core Primitives** - QFT, phase estimation, Grover's algorithm
-7. **NISQ Algorithms and Variational Methods** - VQE, QAOA, and error mitigation
-8. **Quantum Communication Protocols** - Teleportation, superdense coding, channel capacity
-9. **Quantum Key Distribution Systems** - QKD protocols and security analysis
-10. **Quantum Sensing and Metrology** - Parameter estimation and interferometry
-11. **Quantum Error Correction** - Stabilizer codes and fault tolerance
-12. **Quantum Hardware Platforms** - Physical implementations and control systems
-13. **Quantum Networks and Internet** - Network architecture and protocols
+1. **From Classical to Quantum Information** - Classical information fundamentals, qubits, superposition, entanglement, and basic quantum computation rules
+2. **Essential Linear Algebra Toolkit** - Complex numbers, vectors, matrices, tensor products, and mathematical foundations for quantum computing
+3. **Quantum Circuits and Single-Qubit Gates** - Circuit model, Pauli gates, Hadamard gate, phase gates, and Bloch sphere representation
+4. **Multi-Qubit Gates and Universality** - CNOT, controlled gates, universal gate sets, and introductory algorithms (Deutsch-Jozsa)
+5. **Quantum Algorithms I: Searching and Factoring** - Quantum Fourier Transform, phase estimation, Shor's algorithm, and Grover's search
+6. **Quantum Communication and Information Theory** - Von Neumann entropy, quantum teleportation, superdense coding, and quantum key distribution (BB84, E91)
+7. **Quantum Algorithms II: NISQ Algorithms and Hybrid Computation** - NISQ era, VQE, QAOA, and quantum machine learning
+8. **Quantum Sensing and Metrology** - Classical vs quantum limits, NOON states, squeezed states, quantum magnetometry, and clock synchronization
+9. **Open Systems and Decoherence** - System-environment interaction, density matrices, mixed states, and quantum control concepts
+10. **Quantum Error Correction (QEC) Fundamentals** - Necessity of QEC, basic quantum codes, and introduction to stabilizer formalism
+11. **Quantum Hardware Platforms** - Qubit quality metrics, major technologies (superconducting, trapped ion, photonic), and control systems
+12. **Quantum Networking and Future** - Quantum networks, quantum repeaters, distributed quantum services, and the path to fault tolerance
 
 ## Building the Document
 
